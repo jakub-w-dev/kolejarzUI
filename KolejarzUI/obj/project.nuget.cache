@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KdCAmJPY0cU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\KolejarzUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuba\\.nuget\\packages\\system.data.odbc\\8.0.1\\system.data.odbc.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\ConnectionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainTabForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SectionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SegmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\StationsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TrainSetsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
