@@ -18,6 +18,7 @@ namespace Kolejarz
 
         private string PrepareConnectionString()
         {
+            // db connection params - change accordingly
             databaseConnectionString = "DRIVER={MySQL ODBC 9.0 Unicode Driver}; " + // lub DRIVER={MySQL ODBC 8.0 Unicode Driver
                  "SERVER=localhost; " +
                  "DATABASE=kolejarz; " +

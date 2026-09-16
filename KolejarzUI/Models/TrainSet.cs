@@ -29,8 +29,6 @@ namespace KolejarzUI.Model
 
         public List<Carriage> carriages { get; set; }
 
-        //public string longName { get; set; }
-
         public static List<TrainSet> GenerateTrainSets()
         {
             List<TrainSet> trainSets = new List<TrainSet>();
@@ -43,11 +41,7 @@ namespace KolejarzUI.Model
             Random rnd = new Random();
             int randomNumber = 0;
 
-            // pociąg wczytany z pliku segments.csv
-
             trainSets.Add(new TrainSet(1, MainTabForm.segmentsFileInput[0].train.shortName));
-
-            // reszta
 
             for (int i = 2; i < 13; i++)
             {

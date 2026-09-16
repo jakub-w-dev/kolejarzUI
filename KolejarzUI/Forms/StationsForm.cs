@@ -126,8 +126,6 @@ namespace KolejarzUI.Forms
             stationAddLongitude.Visible = false;
             stationAddName.Visible = false;
 
-            tabStations.BackgroundImage = Image.FromFile(@"C:/Users/kuba/Desktop/test2/backgroundImage0.jpg");
-
             updateStation.Click += new EventHandler(showUpdateForm_Click);
 
             addStation.Click += new EventHandler(showAddStationForm_Click);

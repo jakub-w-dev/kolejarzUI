@@ -45,8 +45,6 @@ namespace KolejarzUI
 
             List<Connection> connList = completeList();
 
-            TabMainPage.BackgroundImage = Image.FromFile(@"C:/Users/kuba/Desktop/test2/backgroundImage0.jpg");
-
             TabMainPage.Controls.AddRange(new Control[] { ConnectionListBox, ConnectionListLabel });
 
             ConnectionListBox.DataSource = connList;

@@ -11,11 +11,7 @@ namespace KolejarzUI.Forms
 {
     public class MainTabForm : Form
     {
-        private static string path = "C:/Users/kuba/Desktop/test2";
-
-        // private static string path = "C:/Users/student/Desktop/test";
-
-        // private static string path = "C:/Users/pawin/Desktop/test";
+        private static string path = "C:/Users/kuba/Desktop/test2"; // path for input stream
 
         private static Files files = new Files();
 
@@ -82,14 +78,6 @@ namespace KolejarzUI.Forms
             ConnectionsForm mainPageForm = new ConnectionsForm(tabConnections, trainSetList, segmentList);
         }
 
-        private void InitializeComponent()
-        {
-            SuspendLayout();
-            ClientSize = new Size(284, 261);
-            Name = "MainTabForm";
-            ResumeLayout(false);
-        }
-
         private void CreateTables()
         {
             segmentList.DropTable();
@@ -114,8 +102,6 @@ namespace KolejarzUI.Forms
             trainSetList.FillTable();
             segmentList.FillTable();
             carriageList.FillTable();
-      
-            
         }
 
         public MainTabForm()

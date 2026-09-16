@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KolejarzUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cca1694f7ad92e804ca64f81cb248ae346798ac1")]
 [assembly: System.Reflection.AssemblyProductAttribute("KolejarzUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KolejarzUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

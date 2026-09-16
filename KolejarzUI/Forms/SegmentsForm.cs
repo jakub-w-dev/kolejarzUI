@@ -106,8 +106,6 @@ namespace KolejarzUI.Forms
 
             confirm.Click += new EventHandler(addSegment_Click);
 
-            segmentsTab.BackgroundImage = Image.FromFile(@"C:/Users/kuba/Desktop/test2/backgroundImage0.jpg");
-
             segmentsTab.Controls.AddRange(new Control[] { segmentListBox, deleteSegment, addSegment, sectionListBox, trainSetListBox, trainSetLabel, ETA, ETALabel, ETD, ETDLabel, confirm });
         }
 

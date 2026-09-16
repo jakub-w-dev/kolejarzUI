@@ -13,7 +13,6 @@ namespace KolejarzUI.Model
         public Station lastStation { get; set; }
         public TrainSet train { get; set; }
 
-        //public string ETA { get; set; }
 
         public Connection(Station firstStation, Station lastStation, TrainSet train)
         {

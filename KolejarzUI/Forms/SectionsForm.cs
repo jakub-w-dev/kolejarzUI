@@ -122,8 +122,6 @@ namespace KolejarzUI
 
             confirm.Click += new System.EventHandler(addSection_Click);
 
-            sectionsTab.BackgroundImage = Image.FromFile(@"C:/Users/kuba/Desktop/test2/backgroundImage0.jpg");
-
             sectionsTab.Controls.AddRange(new Control[] { sectionListBox, deleteSection, addSection, fromListBox, toListBox, fromSelected, toSelected, confirm, distance });
 
             InitializeComponent();

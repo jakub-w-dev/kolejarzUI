@@ -198,8 +198,6 @@ namespace KolejarzUI
             trainSetListBox.DisplayMember = "shortName";
             trainSetListBox.ValueMember = "shortName";
 
-            tabTrainSets.BackgroundImage = Image.FromFile(@"C:/Users/kuba/Desktop/test2/backgroundImage0.jpg");
-
             tabTrainSets.Controls.AddRange(new Control[] { trainSetListBox, updateTrainSetLabel, updateTrainSetTextBox, deleteTrainSet, updateTrainSet, carriagesListBox, carriageLabel, addTrainSet, confirmUpdateTrainSet, addTrainSetLabel, addTrainSetTextBox, confirmAddTrainSet, deleteCarriage, addCarriageLabel, updateCarriage, addCarriage, addCarriageTextBox, confirmAddCarriage, updateCarriageLabel, updateCarriageTextBox, confirmUpdateCarriage, isEngineCheckBox, isEngineLabel});
 
             InitializeComponent();

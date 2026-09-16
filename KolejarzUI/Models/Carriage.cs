@@ -29,12 +29,6 @@ namespace KolejarzUI.Model
 
         public string type { get; set; }
         public int id { get; set; }
-        /*
-        public string engineType
-        {
-            get { return this.type + " - engine"; }
-        }
-        */
 
         public static List<Carriage> GenerateCarriages()
         {
