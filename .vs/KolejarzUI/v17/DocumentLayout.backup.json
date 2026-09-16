@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\forms\\maintabform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\forms\\maintabform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\file input\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\file input\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\file input\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\file input\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\forms\\connectionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\forms\\connectionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\forms\\trainsetsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\forms\\trainsetsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\forms\\sectionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\forms\\sectionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\forms\\maintabform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\forms\\maintabform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\forms\\connectionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\forms\\connectionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\database\\storedprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\lists\\carriagelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\file input\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\file input\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\lists\\segmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\lists\\segmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -99,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\forms\\stationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|c:\\users\\kuba\\desktop\\kolejarzui.002\\kolejarzui\\file input\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA1FF01-4257-4719-B765-CC3C0074F946}|KolejarzUI\\KolejarzUI.csproj|solutionrelative:kolejarzui\\file input\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\kolejarzui\\mainpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kolejarzui\\mainpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -114,24 +114,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Section.cs",
-              "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Models\\Section.cs",
-              "RelativeDocumentMoniker": "KolejarzUI\\Models\\Section.cs",
-              "ToolTip": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Models\\Section.cs",
-              "RelativeToolTip": "KolejarzUI\\Models\\Section.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:38:46.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Segment.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Models\\Segment.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Models\\Segment.cs",
@@ -139,12 +126,11 @@
               "RelativeToolTip": "KolejarzUI\\Models\\Segment.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:14:14.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T11:14:14.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Station.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Models\\Station.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Models\\Station.cs",
@@ -152,12 +138,11 @@
               "RelativeToolTip": "KolejarzUI\\Models\\Station.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:46:43.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T10:46:43.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "TrainSet.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Models\\TrainSet.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Models\\TrainSet.cs",
@@ -165,12 +150,11 @@
               "RelativeToolTip": "KolejarzUI\\Models\\TrainSet.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T21:18:36.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T21:18:36.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "StoredProcedures.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Database\\StoredProcedures.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Database\\StoredProcedures.cs",
@@ -178,38 +162,36 @@
               "RelativeToolTip": "KolejarzUI\\Database\\StoredProcedures.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T22:18:36.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T22:18:36.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ConnectionsForm.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\ConnectionsForm.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Forms\\ConnectionsForm.cs",
               "ToolTip": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\ConnectionsForm.cs",
               "RelativeToolTip": "KolejarzUI\\Forms\\ConnectionsForm.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCsAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T10:47:55.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T10:47:55.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainTabForm.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\MainTabForm.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Forms\\MainTabForm.cs",
               "ToolTip": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\MainTabForm.cs",
               "RelativeToolTip": "KolejarzUI\\Forms\\MainTabForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T10:51:10.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SectionsForm.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\SectionsForm.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Forms\\SectionsForm.cs",
@@ -217,12 +199,11 @@
               "RelativeToolTip": "KolejarzUI\\Forms\\SectionsForm.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAtwHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:56:09.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T09:56:09.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SegmentsForm.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\SegmentsForm.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Forms\\SegmentsForm.cs",
@@ -230,12 +211,11 @@
               "RelativeToolTip": "KolejarzUI\\Forms\\SegmentsForm.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAwwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T16:11:25.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T16:11:25.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "StationsForm.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\StationsForm.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Forms\\StationsForm.cs",
@@ -248,20 +228,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TrainSetsForm.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\TrainSetsForm.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Forms\\TrainSetsForm.cs",
               "ToolTip": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\TrainSetsForm.cs",
               "RelativeToolTip": "KolejarzUI\\Forms\\TrainSetsForm.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAowL8AAABXAAAAAAAAAA==",
+              "ViewState": "AgIAABABAAAAAAAAAAAuwL8AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:22:39.032Z",
+              "WhenOpened": "2024-11-25T20:22:39.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\File Input\\Data.cs",
+              "RelativeDocumentMoniker": "KolejarzUI\\File Input\\Data.cs",
+              "ToolTip": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\File Input\\Data.cs",
+              "RelativeToolTip": "KolejarzUI\\File Input\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:18:59.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
+              "Title": "Files.cs",
+              "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\File Input\\Files.cs",
+              "RelativeDocumentMoniker": "KolejarzUI\\File Input\\Files.cs",
+              "ToolTip": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\File Input\\Files.cs",
+              "RelativeToolTip": "KolejarzUI\\File Input\\Files.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:48:47.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "KolejarzUI\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Models\\Section.cs",
+              "RelativeToolTip": "KolejarzUI\\Models\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:38:46.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Connection.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Models\\Connection.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Models\\Connection.cs",
@@ -269,12 +286,11 @@
               "RelativeToolTip": "KolejarzUI\\Models\\Connection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T11:55:25.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T11:55:25.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "TrainSetList.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Lists\\TrainSetList.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Lists\\TrainSetList.cs",
@@ -282,12 +298,11 @@
               "RelativeToolTip": "KolejarzUI\\Lists\\TrainSetList.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAAewGcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T18:56:11.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T18:56:11.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "SectionList.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Lists\\SectionList.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Lists\\SectionList.cs",
@@ -295,12 +310,11 @@
               "RelativeToolTip": "KolejarzUI\\Lists\\SectionList.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAtwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:01:33.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:01:33.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Carriage.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Models\\Carriage.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Models\\Carriage.cs",
@@ -308,12 +322,11 @@
               "RelativeToolTip": "KolejarzUI\\Models\\Carriage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T21:10:38.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T21:10:38.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SQLFunctions.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Database\\SQLFunctions.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Database\\SQLFunctions.cs",
@@ -321,12 +334,11 @@
               "RelativeToolTip": "KolejarzUI\\Database\\SQLFunctions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T19:17:04.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T19:17:04.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "DatabaseConnection.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Database\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Database\\DatabaseConnection.cs",
@@ -334,12 +346,11 @@
               "RelativeToolTip": "KolejarzUI\\Database\\DatabaseConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:28:52.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T10:28:52.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "StationList.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Lists\\StationList.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Lists\\StationList.cs",
@@ -347,12 +358,11 @@
               "RelativeToolTip": "KolejarzUI\\Lists\\StationList.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAmwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T19:56:05.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T19:56:05.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "CarriageList.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Lists\\CarriageList.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Lists\\CarriageList.cs",
@@ -360,25 +370,11 @@
               "RelativeToolTip": "KolejarzUI\\Lists\\CarriageList.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:47:00.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:47:00.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Files.cs",
-              "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\File Input\\Files.cs",
-              "RelativeDocumentMoniker": "KolejarzUI\\File Input\\Files.cs",
-              "ToolTip": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\File Input\\Files.cs",
-              "RelativeToolTip": "KolejarzUI\\File Input\\Files.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:48:47.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "SegmentList.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Lists\\SegmentList.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Lists\\SegmentList.cs",
@@ -390,19 +386,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "MainTabForm.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\MainTabForm.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Forms\\MainTabForm.cs",
               "ToolTip": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\MainTabForm.cs [Projekt]",
               "RelativeToolTip": "KolejarzUI\\Forms\\MainTabForm.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T16:13:15.61Z",
-              "EditorCaption": " [Projekt]"
+              "WhenOpened": "2024-12-01T16:13:15.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Program.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Program.cs",
@@ -414,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "StationsForm.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\Forms\\StationsForm.cs",
               "RelativeDocumentMoniker": "KolejarzUI\\Forms\\StationsForm.cs",
@@ -422,18 +417,6 @@
               "RelativeToolTip": "KolejarzUI\\Forms\\StationsForm.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T22:16:37.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\File Input\\Data.cs",
-              "RelativeDocumentMoniker": "KolejarzUI\\File Input\\Data.cs",
-              "ToolTip": "C:\\Users\\kuba\\Desktop\\KolejarzUI.002\\KolejarzUI\\File Input\\Data.cs",
-              "RelativeToolTip": "KolejarzUI\\File Input\\Data.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T19:18:59.747Z"
             },
             {
               "$type": "Document",

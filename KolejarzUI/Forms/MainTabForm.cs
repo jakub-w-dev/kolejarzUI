@@ -11,7 +11,7 @@ namespace KolejarzUI.Forms
 {
     public class MainTabForm : Form
     {
-        private static string path = "C:/Users/kuba/Desktop/test2"; // path for input stream
+        private static readonly string path = "../../../../assets"; // path for input stream
 
         private static Files files = new Files();
 

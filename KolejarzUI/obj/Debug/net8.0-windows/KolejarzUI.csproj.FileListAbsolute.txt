@@ -174,3 +174,4 @@ C:\Users\kuba\Desktop\KolejarzUI.002\KolejarzUI\obj\Debug\net8.0-windows\Kolejar
 C:\Users\kuba\Desktop\KolejarzUI.002\KolejarzUI\obj\Debug\net8.0-windows\KolejarzUI.Forms.MainTabForm.resources
 C:\Users\kuba\Desktop\KolejarzUI.002\KolejarzUI\obj\Debug\net8.0-windows\KolejarzUI.Forms.SegmentsForm.resources
 C:\Users\kuba\Desktop\KolejarzUI.002\KolejarzUI\obj\Debug\net8.0-windows\KolejarzUI.Forms.StationsForm.resources
+C:\Users\kuba\Desktop\KolejarzUI.002\KolejarzUI\obj\Debug\net8.0-windows\KolejarzUI.sourcelink.json
